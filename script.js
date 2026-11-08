@@ -7,7 +7,7 @@
   4. Якщо відео ще не готове, залиш video порожнім — картка працюватиме як заглушка.
 */
 const projects = [
-  {title:"Product story", category:"product", categoryLabel:"PRODUCT VIDEO", description:"Предметна зйомка · Демонстрація продукту", thumbnail:"", video:"", color:"#d8c4b1", mark:"product<br>story"},
+  {title:"Product story", category:"product", categoryLabel:"PRODUCT VIDEO", description:"Предметна зйомка · Демонстрація продукту", thumbnail:"", video:"https://www.youtube.com/shorts/oGxb71zGkzM", color:"#d8c4b1", mark:"product<br>story"},
   {title:"Beauty details", category:"beauty", categoryLabel:"BEAUTY", description:"Beauty-контент · Деталі та текстури", thumbnail:"", video:"", color:"#d9bcb6", mark:"beauty<br>details"},
   {title:"A day in my life", category:"lifestyle", categoryLabel:"LIFESTYLE", description:"Lifestyle · Атмосферне відео", thumbnail:"", video:"", color:"#c6c9b7", mark:"a day<br>in my life"},
   {title:"UGC review", category:"ugc", categoryLabel:"UGC / AD", description:"Огляд продукту · Нативна інтеграція", thumbnail:"", video:"", color:"#d8c9a9", mark:"ugc<br>review"},
