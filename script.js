@@ -7,12 +7,21 @@
   4. Якщо відео ще не готове, залиш video порожнім — картка працюватиме як заглушка.
 */
 const projects = [
-  {title:"Product story", category:"product", categoryLabel:"PRODUCT VIDEO", description:"Предметна зйомка · Демонстрація продукту", thumbnail:"", video:"https://www.youtube.com/embed/AsIYjDa1VXk", color:"#d8c4b1", mark:"product<br>story"},
-  {title:"Beauty details", category:"beauty", categoryLabel:"BEAUTY", description:"Beauty-контент · Деталі та текстури", thumbnail:"", video:"https://www.youtube.com/embed/mUrrP_iiV8c", color:"#d9bcb6", mark:"beauty<br>details"},
+  {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/AsIYjDa1VXk", color:"#d8c4b1", mark:"product<br>story"},
+  {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/N1feAtS2MEw", color:"#d8c4b1", mark:"product<br>story"},
+  {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/FBks6EFzIHw", color:"#d8c4b1", mark:"product<br>story"},
+  {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/JKInKWmWWZ8", color:"#d8c4b1", mark:"product<br>story"},
+  {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/rfbcYMd0BNE", color:"#d8c4b1", mark:"product<br>story"},
+  {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/uRCpXrPTn20", color:"#d8c4b1", mark:"product<br>story"},
+  {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/qdxhAzWpI9o", color:"#d8c4b1", mark:"product<br>story"},
+  {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/twjAWJtIjqw", color:"#d8c4b1", mark:"product<br>story"},
+  {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/7e-hclfS970", color:"#d8c4b1", mark:"product<br>story"},
+  {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/I7plaigAiG8", color:"#d8c4b1", mark:"product<br>story"},
+ /*{title:"Beauty details", category:"beauty", categoryLabel:"BEAUTY", description:"Beauty-контент · Деталі та текстури", thumbnail:"", video:"https://www.youtube.com/embed/", color:"#d9bcb6", mark:"beauty<br>details"},
   {title:"A day in my life", category:"lifestyle", categoryLabel:"LIFESTYLE", description:"Lifestyle · Атмосферне відео", thumbnail:"", video:"", color:"#c6c9b7", mark:"a day<br>in my life"},
   {title:"UGC review", category:"ugc", categoryLabel:"UGC / AD", description:"Огляд продукту · Нативна інтеграція", thumbnail:"", video:"", color:"#d8c9a9", mark:"ugc<br>review"},
   {title:"Visual mood", category:"product", categoryLabel:"PRODUCT VIDEO", description:"Креативна концепція · Відеомонтаж", thumbnail:"", video:"", color:"#c8c2ba", mark:"visual<br>mood"},
-  {title:"Soft routine", category:"beauty", categoryLabel:"BEAUTY", description:"Рутина · Естетична подача", thumbnail:"", video:"", color:"#c9b8b0", mark:"soft<br>routine"}
+  {title:"Soft routine", category:"beauty", categoryLabel:"BEAUTY", description:"Рутина · Естетична подача", thumbnail:"", video:"", color:"#c9b8b0", mark:"soft<br>routine"}*/
 ];
 
 const grid = document.querySelector("#projectGrid");
