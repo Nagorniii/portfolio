@@ -58,7 +58,7 @@ const projects = [
   {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/npjiwGox5pA", color:"#d8c4b1", mark:"product<br>story"},
   {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/UJ4AOgLlX2M", color:"#d8c4b1", mark:"product<br>story"},
   {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/NXQCjtVVcIY", color:"#d8c4b1", mark:"product<br>story"},
-  {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/NXQCjtVVcIY", color:"#d8c4b1", mark:"product<br>story"},
+
   {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/QbDw0sALJ08", color:"#d8c4b1", mark:"product<br>story"},
   {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/y7sfTg5Q8Xg", color:"#d8c4b1", mark:"product<br>story"},
   {title:"", category:"", categoryLabel:"", description:"", thumbnail:"", video:"https://www.youtube.com/embed/-kPkTY4000A", color:"#d8c4b1", mark:"product<br>story"},
